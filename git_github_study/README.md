@@ -1,0 +1,1 @@
+How to use git and github (git과 github 사용법에 대해 공부한 것)

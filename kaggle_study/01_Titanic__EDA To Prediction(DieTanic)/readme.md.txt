@@ -1,10 +1,10 @@
-# kaggleÀÇ TitanicÀÇ 'EDA To Prediction(DieTanic)'À» °øºÎÇÑ °ÍÀ» Á¤¸®ÇÑ °ÍÀÌ´Ù.
+# kaggleì˜ Titanicì˜ 'EDA To Prediction(DieTanic)'ì„ ê³µë¶€í•œ ê²ƒì„ ì •ë¦¬í•œ ê²ƒì´ë‹¤.
 
-- kaagleÀÇ ±¸ÇöµÈ ÄÚµå¸¦ µû¶ó¼­ ÀÛ¼ºÇÏ¸ç °øºÎÇÑ ³»¿ëÀÌ´Ù.
+- kaagleì˜ êµ¬í˜„ëœ ì½”ë“œë¥¼ ë”°ë¼ì„œ ì‘ì„±í•˜ë©° ê³µë¶€í•œ ë‚´ìš©ì´ë‹¤.
 
 
- # 0. ÃâÃ³ : 
+ # 0. ì¶œì²˜ : 
 - ASHWINI SWAIN, "EDA To Prediction(DieTanic).", kaggle, last modified March 09, 2018, https://www.kaggle.com/code/ash316/eda-to-prediction-dietanic/notebook.
 - ASHWINI SWAIN (March 09, 2018) [EDA To Prediction(DieTanic)]. https://www.kaggle.com/code/ash316/eda-to-prediction-dietanic/notebook.
 
-# 1. °øºÎÇÑ ³»¿ë : 
+# 1. ê³µë¶€í•œ ë‚´ìš© : 
