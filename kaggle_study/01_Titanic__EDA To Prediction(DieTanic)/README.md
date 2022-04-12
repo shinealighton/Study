@@ -1,4 +1,4 @@
-# kaggle의 Titanic의 'EDA To Prediction(DieTanic)'을 공부한 것을 정리한 것이다.
+﻿# kaggle의 Titanic의 'EDA To Prediction(DieTanic)'을 공부한 것을 정리한 것이다.
 
 - kaagle의 구현된 코드를 따라서 작성하며 공부한 내용이다.
 
